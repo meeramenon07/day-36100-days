@@ -1,0 +1,1 @@
+This was day 36 of coding in python on replit and I learnt how to make a contact list using python3 ! In this contact list I can add names to the list, ensure that the names are not duplicate and if duplicate, it will gie out an error message! 
